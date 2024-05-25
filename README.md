@@ -5,7 +5,7 @@ This project focuses on analyzing the unemployment rate, particularly the sharp 
 ### **Data Collection:** 
 Gathering unemployment data from reliable sources such as government databases or public datasets.
 
-### **Data Preprocessing: 
+### **Data Preprocessing:** 
 Cleaning the data by handling missing values, normalizing formats, and preparing it for analysis.
 
 ### **Exploratory Data Analysis (EDA):**
